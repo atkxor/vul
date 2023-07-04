@@ -34,3 +34,5 @@ View the source code of the webpage, embed Payload in the webpage
       <div class="content"><script>alert('xss')</script>
 ```
 
+source link：https://github.com/bg5sbk/MiniCMS
+
